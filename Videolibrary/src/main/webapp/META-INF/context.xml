@@ -1,0 +1,11 @@
+<Context>
+	<Resource 
+		name="videolibrary_web"
+		author="Container"
+		type="javax.sql.DataSource"
+		username="root"
+		password="root"
+		driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/video_library?serverTimezone=Europe/Kiev&useSSL=false"
+	/>
+</Context>

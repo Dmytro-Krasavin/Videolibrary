@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>MyWebApp</title>
+	</head>
+	<body>
+		<center>
+			<table bgcolor="darkgray" border="10" cellspacing="5" cellpadding="5">
+				<tr bgcolor="gainsboro">
+					<td><a href="http://localhost:8080/new_films">Find films in the current and last year</a></td>
+					<td><a href="http://localhost:8080/actors_directors">Find directors who here actors</a></td>
+					<td><a href="http://localhost:8080/actors_on_film">Find actors on film</a></td>
+					<td><a href="http://localhost:8080/actors_min_films">Find actor by minimal films number</a></td>
+					<td><a href="http://localhost:8080/delete_old_films">Delete film older n year</a></td>
+				</tr>
+			</table>
+		</center>		
+	</body>
+</html>
